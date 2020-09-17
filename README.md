@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 
-[![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Webepack?color=FFF300&style=social)](https://github.com/Daniel-Vinicius/Calculadora/stargazers)
+![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Calculadora?style=social)
 
 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Calculadora/blob/master/.github/Imagem.JPG" />  </h2>
