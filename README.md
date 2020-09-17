@@ -10,7 +10,7 @@ Calculadora criada com React e Javascript
 [![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Webepack?color=FFF300&style=social)](https://github.com/Daniel-Vinicius/Calculadora/stargazers)
 
 
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/UI-CLONE-MERCADO-LIVRE/blob/master/.github/Imagem.JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Calculadora/blob/master/.github/Imagem.JPG" />  </h2>
 
 ### Features 
 - [x] Calculadora com funções básicas
