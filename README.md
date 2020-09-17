@@ -1,7 +1,7 @@
 
  <h1> Calculadora </h1>
  <p id="sobre" align="center">
-Calculadora criada com React e Javascript
+📱 Calculadora criada com React e Javascript
 
 ![](https://img.shields.io/badge/license-MIT-green)
 
@@ -33,7 +33,7 @@ Tabela de conteúdos
  <!--te-->
  
  
-###  Pré-requisitos<a id="pre-requisitos"></a>
+### 🛒 Pré-requisitos<a id="pre-requisitos"></a>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
@@ -42,7 +42,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
  
-   ### 🎲Rodando a Aplicação<a id="rodando"></a>
+   ### 📀Rodando a Aplicação<a id="rodando"></a>
    
 ````bash 
  # Clone este repositório
@@ -73,7 +73,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-### Autor <a id="autor"> </a>
+### 👨‍💻Autor <a id="autor"> </a>
 
 ---
 <a href="https://github.com/Daniel-Vinicius" style="text-decoration: none;">
