@@ -15,7 +15,8 @@
 ### Features 
 - [x] Calculadora com funções básicas
 - [x] Favicon personalizado
-- [ ] Tratamento de erro com eval finalizado
+- [x] Hospedado
+- [x] Responsivo
 
 <h4  align="left">
 Projeto finalizado ✔
